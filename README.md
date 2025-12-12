@@ -1,2 +1,2 @@
-# Sonic-3-A.I.R.-New-Custom-Boss
-This Sonic 3 A.I.R. Mod is a New Bosses for Big Core MK.I from Gradius, Signal Jammer, Mandler from Terra Cresta, and Others.
+# Big Core MK.I from Gradius
+This Mod is a Replace a Fire Breath in Angel Island Zone Act 1 Boss with Big Core MK.I from Gradius.
